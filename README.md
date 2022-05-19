@@ -1,2 +1,3 @@
 # react-refresher
-Created with CodeSandbox
+
+A small app to get reacquainted with React. 
